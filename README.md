@@ -16,7 +16,7 @@
 
 <br>
 
-- Back-end Developer (Java | Python | PHP);
+- Back-end Developer (Java | Python | PHP | C#);
 - Front-end Developer (HTML | CSS | JS);
 - Data Analyst;
 - Database manager;
