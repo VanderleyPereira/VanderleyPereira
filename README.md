@@ -16,8 +16,8 @@
 
 <br>
 
-- Back-end Developer (Java | Python | PHP | C#);
-- Front-end Developer (HTML | CSS | JS);
+- Back-end Developer (Python | PHP | C#);
+- Front-end Developer (React & React Native);
 - Data Analyst;
 - Database manager;
 - Microsoft Power BI;
