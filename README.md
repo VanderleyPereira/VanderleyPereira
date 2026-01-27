@@ -1,7 +1,7 @@
 <h1 align="center"><b>Olá, sou o Vanderley Pereira!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+de+Tecnologia;Desenvolvedor+Full-Stack;Cursando+Ciência+da+Computação;Sempre+aprendendo+algo+novo!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+de+Tecnologia;Desenvolvedor+Full-Stack;Graduado+em+Computação;Sempre+aprendendo+algo+novo!">
 </p>
 
 ---
